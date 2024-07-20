@@ -1,0 +1,13 @@
+.graphs{
+    background-color: rgb(1, 2, 14);
+    border-color: rgb(2, 15, 15);
+    border-style: solid;
+    border-radius: 10px;
+    gap: 2rem;
+    width: 100%;
+}
+
+.options{
+    padding: 4rem;
+
+}

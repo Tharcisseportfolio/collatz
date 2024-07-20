@@ -1,0 +1,37 @@
+.about-me {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    width: 100%; /* Full width */
+}
+
+.about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 60%;
+    text-align: center; /* Center text inside the .about */
+}
+
+.about h1 {
+    font-size: 60px;
+    
+}
+
+.introduction {
+    font-size: 18px;
+    /* Add styles for .introduction here if needed */
+    color: rgb(192, 194, 196);
+}
+
+.about h2{
+    font-size: 18px;
+
+}
+
+.about a{
+    text-decoration: none;
+}

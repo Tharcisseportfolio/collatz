@@ -1,0 +1,11 @@
+.option-select{
+    padding: 2rem;
+}
+
+select{
+background-color: rgb(4, 1, 1);
+color: rgb(84, 80, 80);
+border-color: rgb(41, 42, 42);
+border-radius: 4px;
+padding: 0.5rem;
+}

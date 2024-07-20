@@ -1,0 +1,22 @@
+#root {
+
+  top: 4rem;
+  margin: 0 auto;
+  padding: 3rem;
+  text-align: center;
+}
+
+.custom-background{
+    background-color: black;
+    position: relative;
+}
+
+
+.App{
+  padding-top:2rem;
+}
+.katex-formula {
+  font-size: 40px; 
+  color: #ff5733; 
+  font-weight: bold;
+}
