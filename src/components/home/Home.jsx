@@ -3,7 +3,7 @@ import Action from '../actions/Action';
 import Count from '../AutoCount';
 import Typewriter from '../AutoType';
 
-import '../../styles/Home.css';
+import './Home.css';
 
 const Home = () => {
 
